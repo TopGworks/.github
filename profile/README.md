@@ -4,6 +4,8 @@
 
 We create games, software systems, and infrastructure with strong attention to detail, architecture, and engineering culture.
 
+🇬🇧 English | 🇷🇺 [Русская версия](README_ru.md)
+
 ---
 
 ## 🚀 About
@@ -32,6 +34,7 @@ We develop:
 * 🧩 **Software libraries**
 * 🤖 **Discord & Telegram bots**
 * ⚙️ **Experimental technologies**
+* ☑️ **And much more**
 
 ---
 
