@@ -1,79 +1,48 @@
-# TopGworks
+# TopGworks Studio
 
-**TopGworks** is an independent software and game development studio focused on building creative digital products, experimental technologies, and developer tools.
+**TopGworks** is an independent software and game development studio focused on building digital products, experimental technologies, and developer tools.
 
-We design and develop games, software systems, and infrastructure with an emphasis on performance, clean architecture, and experimentation.
+We create games, software systems, and infrastructure with strong attention to detail, architecture, and engineering culture.
 
 ---
 
 ## 🚀 About
 
-TopGworks is a development studio founded in **2024** by **Maksim Pogodaev**.
+TopGworks is a development studio founded in **2024** by developer **Maksim Pogodaev** (aka **Maksim1033**).
 
-The studio focuses on creating:
+Main areas of work:
 
-* original game projects
-* custom software solutions
+* game development
+* software systems
 * experimental technologies
-* reusable development tools
+* developer tools
+* reusable libraries
 
-Our goal is to combine engineering discipline with creative experimentation to build interesting and reliable digital products.
+The goal of the studio is to combine engineering discipline with creative ideas to build high-quality digital products.
 
 ---
 
-## 🧠 What We Build
+## 🧠 What We Do
 
-We work on different types of software:
+We develop:
 
 * 🎮 **Games**
-* ⚙️ **Game engines and systems**
 * 🧰 **Developer tools**
 * 🌐 **Web platforms**
-* 🧩 **Reusable libraries**
+* 🧩 **Software libraries**
+* 🤖 **Discord & Telegram bots**
+* ⚙️ **Experimental technologies**
 
 ---
 
-## 📦 Projects
+## 🛠 Technology Focus
 
-Main repositories in this organization include:
-
-| Project        | Description                                    |
-| -------------- | ---------------------------------------------- |
-| `engine`       | Experimental game engine and core technologies |
-| `site`         | Official TopGworks website                     |
-| `dev-tools`    | Internal development tools                     |
-| `backend`      | Backend services and infrastructure            |
-| `game-project` | Game development projects                      |
-
----
-
-## 🏗 Organization Structure
-
-Typical structure of the organization:
-
-```
-TopGworks
-├ engine
-├ engine-renderer
-├ engine-ecs
-├ dev-tools
-├ site
-├ backend
-└ game-project
-```
-
-This structure allows us to separate reusable technologies from final products.
-
----
-
-## 🛠 Technology Areas
-
-We are interested in:
+Key areas of interest:
 
 * game development
 * software architecture
-* performance systems
-* rendering technologies
+* high-performance systems
+* graphics technologies
 * developer tooling
 * experimental programming
 
@@ -82,18 +51,19 @@ We are interested in:
 ## 🌍 Links
 
 **Website**
-
 https://topgworks.ru
 
 **GitHub**
-
 https://github.com/TopGworks
+
+**Discord**
+https://discord.gg/GVpsJ4FD4e
 
 ---
 
 ## 🧩 Open Source
 
-Some internal technologies may become open-source in the future.
+Some of the studio’s technologies may be released as open-source projects in the future.
 
 Stay tuned for updates.
 
@@ -101,10 +71,11 @@ Stay tuned for updates.
 
 ## 📜 Philosophy
 
-We believe that great software is built through:
+We believe great software is built through:
 
+* persistence
 * experimentation
-* strong engineering principles
+* strong engineering culture
 * curiosity and exploration
 
-TopGworks exists to explore ideas and turn them into working systems.
+TopGworks exists to turn ideas into real, working technologies through collaborative effort.
