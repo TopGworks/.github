@@ -10,7 +10,7 @@ We create games, software systems, and infrastructure with strong attention to d
 
 ## 🚀 About
 
-TopGworks is a development studio founded in **2024** by developer **Maksim Pogodaev** (aka **Maksim1033**).
+TopGworks is a development studio founded in **2024** by developer **Maksim Pogodaev** (aka **Maksim1033/PagaDev**).
 
 Main areas of work:
 
@@ -47,6 +47,7 @@ Key areas of interest:
 * high-performance systems
 * graphics technologies
 * developer tooling
+* AI-assisted development
 * experimental programming
 
 ---
@@ -80,5 +81,6 @@ We believe great software is built through:
 * experimentation
 * strong engineering culture
 * curiosity and exploration
+* using modern programming tools and frameworks
 
 TopGworks exists to turn ideas into real, working technologies through collaborative effort.
